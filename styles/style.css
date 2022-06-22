@@ -1,0 +1,49 @@
+body {
+    width: 610px;
+    margin: 0 auto;
+    background-color: hsl(50, 37%, 97%);
+    padding: 0 20px 10px 20px;
+    border: 2px solid rgb(247, 161, 161);
+    color: rgb(59, 55, 55);
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 586px;
+    height: 440px;
+  }
+
+ul {
+    list-style-type: square;
+}
+
+h1 {
+    color: rgb(167, 104, 147);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(161, 90, 139);
+    padding: 0 20px 0px 20px
+}
+
+a {
+    color: green;  
+}
+
+.p1 {
+    padding: 0 0 0 10px;  
+}
+
+.p2 {
+    padding: 0 0 0 10px;  
+}
+
+.Sign {
+    font-weight: bold;
+}
+
+.ul1 {
+    padding: 0 0 0 20px;
+}
